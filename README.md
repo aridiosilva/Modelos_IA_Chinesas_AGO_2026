@@ -487,6 +487,167 @@ Considerando agora todos os players, como fica o cenário em 2026?
 
 ---
 
+# Além do Chatbot: Frameworks, Nuvens e Modelos em Destaque
+
+A força da indústria tecnológica chinesa não se limita a assistentes virtuais. Suas capacidades técnicas e industriais são extensas, e ela já compete globalmente em diversas estruturas e mercados verticais.
+
+---
+
+## Principais Empresas e seus Ecossistemas
+
+| Empresa | Frameworks / Plataformas | Modelos | Aplicações Verticais |
+| :--- | :--- | :--- | :--- |
+| **Baidu** | PaddlePaddle (open-source) | ERNIE | Direção autônoma (Apollo) |
+| **Alibaba** | ModelScope | Qwen | City Brain (gestão urbana inteligente) |
+| **Tencent** | - | Hunyuan | Diagnósticos por imagem médica (em 100+ hospitais) |
+| **Huawei** | MindSpore (otimizado para chips Ascend) | PanGu | Aplicações industriais e meteorológicas |
+| **iFlytek** | - | Spark LLM | Voz (ASR/TTS) e educação |
+| **SenseTime** | - | SenseNova / SenseChat | Visão computacional, cidades inteligentes, avatares 3D |
+| **Megvii** | MegEngine (open-source) | Face++ (APIs de visão) | Reconhecimento facial |
+
+---
+
+## Startups para Ficar de Olho
+
+| Startup | Modelo | Diferencial |
+| :--- | :--- | :--- |
+| **Zhipu AI** | GLM | Pioneira em agentes de IA; planos de abrir capital |
+| **Baichuan** | Baichuan 2 | Código aberto |
+| **MiniMax** | Hailuo | Modelos de vídeo generativo |
+| **DeepSeek** | DeepSeek (V3, R1, V4) | Eficiência e raciocínio avançado |
+
+---
+
+## Modelos Fundamentais Visíveis no Radar
+
+- ERNIE 4.x
+- Qwen 2.5
+- SparkDesk
+- PanGu 3.0
+- SenseChat 5.0
+- GLM-4
+- Baichuan 2
+
+Esses modelos são a base para soluções e aplicações multimodais por setor (saúde, educação, varejo, indústria, setor público).
+
+---
+
+## Os "Cinco Grandes" Chineses: Quem Dita o Ritmo e Porquê
+
+Um quinteto lidera o caminho: **Alibaba, ByteDance, Stepfun, DeepSeek e Zhipu**. Cada um tem um foco estratégico claro: código aberto, produtos de consumo para o mercado de massa, pesquisa de longo prazo ou agentes.
+
+### 🟠 Alibaba
+
+- **Estratégia**: Adoção integral do Qwen e código aberto
+- **Foco**: Lançar modelos e cultivar um ecossistema, monetizando serviços de nuvem e premium
+- **Destaque**: Anunciou investimentos maciços em IA e infraestrutura (dezenas de bilhões de dólares) para acelerar a adoção
+
+### 🔵 ByteDance (Doubao)
+
+- **Estratégia**: Produto global de grande escala e dados de engajamento do mundo real
+- **Foco**: Algoritmos virais aplicados ao Doubao, iterando com base no feedback de milhões de usuários
+- **Destaque**: Utiliza experiência do usuário e distribuição como vantagem competitiva
+
+### 🟢 Stepfun
+
+- **Estratégia**: Perfil discreto, mas com grandes ambições em indicadores de desempenho
+- **Foco**: Pesquisa voltada para pacientes, liderada por talentos de ponta (como os coautores da ResNet)
+- **Destaque**: Apoio de capital estatal; resultados expressivos no OpenCompass e no Chatbot Arena
+
+### 🟣 Zhipu AI (GLM)
+
+- **Estratégia**: Fundada na Universidade de Tsinghua
+- **Foco**: Agentes de IA e conceitos como o uso do celular
+- **Destaque**: Objetivo de ser a primeira startup chinesa de LLM a abrir capital, permitindo avaliação pública nos mercados de Hong Kong ou Xangai
+
+### 🔴 DeepSeek
+
+- **Estratégia**: Pesquisa pura como vantagem competitiva
+- **Foco**: Equipes focadas em eficiência técnica, sem pressões comerciais de curto prazo
+- **Destaque**: Demonstrou que é possível competir com orçamentos limitados se o foco for a engenhosidade
+
+---
+
+## Comparações e Notas Práticas
+
+### Desempenho
+
+| Aspecto | ChatGPT (o3-mini) | DeepSeek (R1) |
+| :--- | :--- | :--- |
+| **Precisão matemática** | Superior | Inferior |
+| **Custo operacional** | Significativamente maior | Muito menor |
+| **Desempenho em chinês** | Inferior | Superior |
+| **Transparência** | Cadeias de pensamento ocultas | Cadeias de pensamento explícitas |
+
+### Vídeo Generativo
+
+| Ferramenta | Diferencial |
+| :--- | :--- |
+| **Sora (OpenAI)** | Realismo cinematográfico |
+| **Hailuo (MiniMax)** | Testes gratuitos e otimização de prompts com um clique |
+| **Kling** | Modos de entrada e extensão de vídeo sobre filmagens existentes; útil para criadores e marcas |
+
+### Aberto vs. Fechado
+
+- **Abertura do Qwen**: Inspirou o surgimento de plataformas similares no Hugging Face e no GitHub
+- **Plataformas Fechadas** (Ernie, Claude, GPT): Avançam com produtos refinados e APIs robustas
+- **Resultado**: Competição mista está acelerando a inovação em escala global
+
+### Impacto Macroeconômico
+
+- A "democratização da computação" promovida pela IA chinesa está pressionando as margens de lucro
+- Influencia a avaliação das ações e reestrutura as cadeias de produção
+- Quedas multimilionárias no mercado foram observadas em dias específicos
+- Tensões regulatórias (ex: direção autônoma) devido a preocupações com segurança nacional
+
+---
+
+## Disponibilidade, Idiomas e Privacidade
+
+### Disponibilidade por Plataforma
+
+| Modelo | Web | Android/iOS | Desktop (Win/Mac) |
+| :--- | :--- | :--- | :--- |
+| **DeepSeek** | ✅ | ✅ | - |
+| **Doubao** | ✅ | ✅ | ✅ |
+| **ERNIE** | ✅ | ✅ | - |
+| **Qwen** | ✅ | Disponível em alguns países | - |
+| **Kimi** | ✅ | ✅ | - |
+| **KLING** | ✅ | ✅ | - |
+| **Yuanbao (Tencent)** | ✅ | ✅ | - |
+
+### Idiomas Suportados
+
+| Modelo | Idiomas | Observação |
+| :--- | :--- | :--- |
+| **Qwen** | 29 idiomas | Mais abrangente |
+| **DeepSeek** | Múltiplos (inclui espanhol) | Bom desempenho geral |
+| **ERNIE** | Chinês e inglês | Melhor domínio do chinês |
+| **Kimi** | Prioriza chinês | Interface cada vez mais global |
+| **Doubao** | Prioriza chinês | Interface cada vez mais global |
+
+### Privacidade e Confiabilidade
+
+- **Recomendação geral**: Evite compartilhar dados pessoais ou sensíveis em qualquer modelo de IA
+- **Alucinações**: Embora sejam menos frequentes, ainda ocorrem — verifique informações críticas
+- **Execução local**: DeepSeek, Kimi e Qwen publicam componentes e versões para execução privada em seus repositórios oficiais no GitHub
+
+---
+
+## Resumo Estratégico
+
+| Empresa | Diferencial Competitivo | Público-Alvo |
+| :--- | :--- | :--- |
+| **Alibaba** | Ecossistema aberto + nuvem | Desenvolvedores e empresas |
+| **ByteDance** | Distribuição em massa + dados de usuário | Consumidores globais |
+| **Stepfun** | Pesquisa de ponta + capital estatal | Setor acadêmico e governamental |
+| **Zhipu** | Agentes + abertura de capital | Empresas e investidores |
+| **DeepSeek** | Eficiência + transparência | Pesquisadores e desenvolvedores |
+
+A competição entre esses atores está redefinindo o cenário global de IA, com modelos chineses cada vez mais presentes em aplicações empresariais, acadêmicas e de consumo em todo o mundo.
+
+---
+
 ## Conclusão Final
 
 Em 2026, não existe mais um "lado vencedor". Existe uma **bipolaridade tecnológica**:
